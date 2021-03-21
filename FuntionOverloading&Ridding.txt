@@ -1,0 +1,12 @@
+Diffrentiation b/w Function Overloading & fFunction overrriding
+
+
+
+* Function overloading occurs in the same class whem we declare the same function but having different arguments in same class.
+* Function overriding occurs in the child class when child class overrides parent class functiom.
+* In function overloading function signature of All overloding function should be different.
+* In function overriding function signature of both (overriding & overridden)function shouldd be the same.
+* Function overloading occurs at compile time that's why it is also known as Compile Time Polymorphism.
+* Function overriding occurs at run time that's why it is also known as Run Time Polyorphism.
+* In Function Overloading we can have any number of overloaded function.
+* In function Overridding we can have only 1 overriden function.
